@@ -227,3 +227,4 @@ python ex4_debug_decompiler.py
    - Cross-language verification
    - Pattern recognition validation
 
+# ex4-decrypt
